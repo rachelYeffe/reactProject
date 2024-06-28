@@ -1,0 +1,6 @@
+[submodule "react-client"]
+	path = react-client
+	url = https://github.com/rachelYeffe/MyCatering-react.git
+[submodule "nodeJs-server"]
+	path = nodeJs-server
+	url = https://github.com/rachelYeffe/MyCatering-node.git
